@@ -1,0 +1,22 @@
+.container { 
+    border: 2px solid black;
+    margin-top: 20px;
+    border-radius: 3px;  
+}
+
+.paul {
+    background-color: yellow;
+    padding-right: 0px;
+    padding-left: 10px;
+    text-align: initial;
+}
+
+/* .col, 
+ [class*="col-"] {
+  background-color: pink;
+} */
+
+.nogut {
+    padding-right: 0px !important;
+    padding-left: 0px  !important;
+}
